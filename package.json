@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "dependencies": {
+    "fastify": "^4.23.0",
+    "nodemon": "^3.0.1",
+    "realm": "^12.1.0"
+  },
+  "name": "cchat",
+  "version": "1.0.0",
+  "description": "chat with using mongodb realm sdk",
+  "main": "main.js",
+  "scripts": {
+    "dev": "nodemon main.js"
+  },
+  "author": "c4lyp5o",
+  "license": "MIT"
+}
